@@ -1,0 +1,9 @@
+{
+	"ip":"SkyBladeNet.aternos.me",
+	"port": "39857",
+	"name": "AOBot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register immabot123 immabot123",
+	"login-cmd":"/login immabot123"
+}
